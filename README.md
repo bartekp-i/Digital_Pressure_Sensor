@@ -108,7 +108,7 @@ This repository hosts the hardware, firmware, and software for a high-precision 
 
 ### **Data Processing**
 - The RP2040:
-  - Samples ADC data at 1kHz (configurable).
+  - Samples ADC data.
   - Applies calibration coefficients stored in QSPI Flash.
   - Drives the OLED to display pressure, units, and mode.
   - Supports USB CDC (serial communication) for data logging.
@@ -123,4 +123,16 @@ This repository hosts the hardware, firmware, and software for a high-precision 
 - **Features**:
   - Toggle between units and modes.
   - Save calibration profiles to Flash.
+
+---
+
+## PCB layout and 3D model
+
+![image](https://github.com/user-attachments/assets/0f9087a9-8f40-4cdb-97b1-04e057f342b1)
+
+![image](https://github.com/user-attachments/assets/36c5bb07-4236-40aa-aaa2-840e889b1bdb)
+
+![image](https://github.com/user-attachments/assets/dc390f30-73cc-4f04-8489-854485bd8bbc)
+
+![image](https://github.com/user-attachments/assets/67a986f7-ab56-4080-bcab-ebede8fd55e3)
 
