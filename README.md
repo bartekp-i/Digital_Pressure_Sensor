@@ -88,7 +88,7 @@ This repository hosts the hardware, firmware, and software for a high-precision 
 - **Dimensions**: 72mm × 40mm (rectangular form factor).
 - **Layers**: 2-layer design for cost efficiency.
 - **Mounting Features**:
-  - **4× Edge Mounting Holes**: M3 screws for securing the PCB to enclosures or surfaces.
+  - **4× Edge Mounting Holes**: M2.5 screws for securing the PCB to enclosures or surfaces.
   - **4× OLED Mounting Points**: Aligns with the display module’s screw terminals.
 - **Routing**:
   - Analog and digital grounds separated to minimize noise coupling.
