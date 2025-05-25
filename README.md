@@ -2,7 +2,7 @@
 
 ## Introduction  
 
-This repository hosts the hardware, firmware, and software for a high-precision **Digital Pressure Sensor** designed for laboratory, industrial, and hobbyist applications. The system combines analog signal conditioning, 16-bit resolution analog-to-digital conversion (ADC), and a Raspberry Pi RP2040 microcontroller to deliver accurate pressure measurements in real time. The device supports dual power inputs (USB-C and DC jack), configurable measurement ranges (2-bar and 10-bar modes), and a user-friendly OLED interface for data visualization.
+This repository will host the hardware, firmware, and software for a high-precision **Digital Pressure Sensor** designed for laboratory, industrial, and hobbyist applications. The system combines analog signal conditioning, 16-bit resolution analog-to-digital conversion (ADC), and a Raspberry Pi RP2040 microcontroller to deliver accurate pressure measurements in real time. The device supports dual power inputs (USB-C and DC jack), configurable measurement ranges (2-bar and 10-bar modes), and a user-friendly OLED interface for data visualization.
 ---
 
 ## Components and Functions
