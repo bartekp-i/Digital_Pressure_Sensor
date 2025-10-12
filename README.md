@@ -1,3 +1,4 @@
+
 # Digital Pressure Sensor Project - Technical Documentation
 
 ## Introduction  
@@ -127,6 +128,7 @@ This repository will host the hardware, firmware, and software for a high-precis
 ---
 
 ## PCB layout and 3D model
+<img width="1176" height="828" alt="image" src="https://github.com/user-attachments/assets/53613373-b655-4e0b-9a25-b60e087893ed" />
 
 ![image](https://github.com/user-attachments/assets/0f9087a9-8f40-4cdb-97b1-04e057f342b1)
 
